@@ -12,6 +12,6 @@
   "type": "module",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "eris": "^0.16.1"
+    "eris": "^0.17.1"
   }
 }
